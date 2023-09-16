@@ -1,3 +1,9 @@
+# Spring Cloud Service Discovery with Eureka Server
+
+The red arrows indicate how this project's build artifacts fit into the Resume-Tailor application architecture
+
+<img src="vadosity-eureka.drawio.png"></img>
+
 
 starting the eureka server on windows:
 
